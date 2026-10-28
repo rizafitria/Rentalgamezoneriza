@@ -47,13 +47,10 @@ Aplikasi ini menyediakan dua pilihan konsol, yaitu PlayStation 4 (PS4) dan PlayS
 
 ## 📷 Screenshot Aplikasi
 
-Screenshot hasil eksekusi program ditampilkan pada bagian ini.
 
-Simpan screenshot di folder `screenshots` dengan nama `output.png`, kemudian gunakan kode berikut:
 
-```markdown
 !![Screenshot RentalGameZone](Screenshots/output.png)
-```
+
 
 ## 🎯 Tujuan Pembuatan
 
