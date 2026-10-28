@@ -52,7 +52,7 @@ Screenshot hasil eksekusi program ditampilkan pada bagian ini.
 Simpan screenshot di folder `screenshots` dengan nama `output.png`, kemudian gunakan kode berikut:
 
 ```markdown
-![Screenshot rentalgamezone](Screenshot/output.png)
+!![Screenshot RentalGameZone](rentalgamezone/screenshots/output.png)
 ```
 
 ## 🎯 Tujuan Pembuatan
