@@ -49,7 +49,7 @@ Aplikasi ini menyediakan dua pilihan konsol, yaitu PlayStation 4 (PS4) dan PlayS
 
 
 
-!![Screenshot RentalGameZone](rentalgamezone/Screenshots/output.png)
+!![Screenshot RentalGameZone](rentalgamezone/Screenshot/output.png)
 
 
 ## 🎯 Tujuan Pembuatan
